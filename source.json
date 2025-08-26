@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"VRChat Stencil Debug Tool",
+    "id":"com.monadoart.vpm-listing",
+    "url":"https://github.com/MB4385/VRChat-Stencil-Debug-Tool/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"MB",
+        "url":"https://twitter.com/Monado_Art/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VRC Stencil Debug Tool",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/MB4385/VRChat-Stencil-Debug-Tool",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",

@@ -1,0 +1,11 @@
+{
+  "name": "com.monadoart.vrcstencildebug",
+  "displayName": "VRChat Stencil Debug Tool",
+  "version": "0.1",
+  "unity": "2022.3",
+  "author": {
+    "name": "MB",
+    "url": "https://x.com/Monado_Art"
+  },
+  "description": "A VRChat Stencil Debug Tool."
+}

@@ -1,7 +1,7 @@
 {
     "name":"VRChat Stencil Debug Tool",
     "id":"com.monadoart.vpm-listing",
-    "url":"https://github.com/MB4385/VRChat-Stencil-Debug-Tool/index.json",
+    "url":"https://github.com/MB4385/VRC-Tools-n-Such/index.json",
     "author":{
         "email":"",
         "name":"MB",
@@ -9,7 +9,7 @@
     },
     "description":"VRC Stencil Debug Tool",
     "infoLink":{
-        "url":"https://github.com/MB4385/VRChat-Stencil-Debug-Tool",
+        "url":"https://github.com/MB4385/VRC-Tools-n-Such",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
